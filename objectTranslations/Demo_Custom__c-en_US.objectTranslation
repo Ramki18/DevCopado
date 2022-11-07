@@ -16,6 +16,10 @@
         <label><!-- Field Two --></label>
         <name>Field_Two__c</name>
     </fields>
+    <fields>
+        <label><!-- Field three --></label>
+        <name>Field_three__c</name>
+    </fields>
     <startsWith>Consonant</startsWith>
     <validationRules>
         <errorMessage><!-- Please enter Field two if Field one is checked. --></errorMessage>
